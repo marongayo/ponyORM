@@ -1,0 +1,5 @@
+<users>
+<user firstName="Hilary" lastName="Hughes" age="77" sex="Female" retired="True" dependants="4" marital_status="single" salary="97933" pension="18966" company="N/A" commute_distance="0" address_postcode="EX0 1BR" />
+<user firstName="Roy" lastName="Watson" age="51" sex="Male" retired="False" dependants="2" marital_status="single" salary="34521" pension="0" company="West Ltd" commute_distance="9.97" address_postcode="W6 0LD" />
+<user firstName="Peter" lastName="Ford" age="46" sex="Male" retired="False" dependants="2" marital_status="single" salary="31646" pension="0" company="Smith, Heath and Ahmed" commute_distance="9.33" address_postcode="SN51 3JU" />
+<user firstName="Holly" lastName="Clarke" age="78" sex="Female" retired="True" dependants="2" marital_status="divorced" salary="57415" pension="9827" company="N/A" commute_distance="0" address_postcode="B0 9TJ" /></users>
